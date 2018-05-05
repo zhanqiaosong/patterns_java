@@ -1,0 +1,4 @@
+生产者消费者模式的三种方式
+synchronized、wait和notify
+lock和condition的await、signalAll
+BlockingQueue
